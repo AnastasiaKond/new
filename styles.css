@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    line-height: 2;
+    margin: 0;
+}
+.form-holder{
+    max-width: 570px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(226, 224, 224);
+}
+
+.label{
+ display: block;
+ float: left;
+  width: 70px;
+  height: 15px;
+
+}
+.field{
+    display: block;
+    float: left;
+    width: 70px;
+    height: 15px;
+}
+.chck1{
+    font-size: small;
+}
+.b1{
+    align-items: center;
+}
+.b2{
+    align-items: center;
+}
